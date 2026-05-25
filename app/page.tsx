@@ -4,7 +4,7 @@ const page = () => {
   return (
     <>
       <div className="nav flex items-center justify-center h-screen">
-        <h1>helloworld this is shubham from pune and nashik</h1>
+        <h1>helloworld this is shubham from pune and nashik and usa</h1>
       </div>
     </>
   );
